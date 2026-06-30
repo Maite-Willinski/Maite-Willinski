@@ -8,6 +8,7 @@
         <br>
         <img src="https://img.shields.io/badge/Status-Open%20To%20Work-9575cd?style=for-the-badge&labelColor=121212&color=b39ddb" alt="Open to work" />
         <img src="https://img.shields.io/badge/Women%20In-Tech-ff79c6?style=for-the-badge&labelColor=121212&color=b39ddb" alt="Women in Tech" />
+        <img src="https://img.shields.io/badge/Location-Spain-📍?style=for-the-badge&labelColor=121212&color=9575cd" alt="Location" />
       </td>
     </tr>
   </table>
@@ -120,6 +121,14 @@ Seguimiento de las tecnologías en las que profundizo activamente para conseguir
     </td>
   </tr>
 </table>
+
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+
+## 🧠 Metodologías & Habilidades Profesionales
+- 📑 **Documentación Técnica:** Creación de manuales detallados de sistemas y guías de despliegue limpias.
+- 🌿 **Flujos de Trabajo:** Gestión de ramas ordenada mediante Git (GitFlow) para un código limpio.
+- 👥 **Metodologías:** Familiarizada con dinámicas de organización ágil (Scrum/Kanban) orientadas a objetivos.
 
 <!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
