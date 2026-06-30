@@ -52,21 +52,25 @@
 
 ## 🚀 Mis Proyectos Destacados 📂
 
-A continuación, algunos de los proyectos en los que he estado trabajando recientemente:
+A continuación, los proyectos principales en los que he plasmado mi aprendizaje:
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px;">
-      <h4>💻 <a href="https://github.com/Maite-Willinski/Mi-portfolio">Mi Portfolio Académico</a></h4>
-      <p>Mi primer portfolio personal creado durante la asignatura HLC. Desarrollado con HTML, CSS, JavaScript y Bootstrap.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
+    <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
+      <h4>💻 <a href="https://github.com/Maite-Willinski/Mi-portfolio" style="color: #b39ddb; text-decoration: none;">✨ Mi Porfolio Académico</a></h4>
+      <p style="font-size: 0.95em;">Mi primer porfolio personal creado durante la asignatura HLC. Un rincón digital pensado para recopilar mis avances y evolución en mis estudios técnicos.</p>
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
     </td>
-    <td width="50%" valign="top" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px;">
-      <h4>🍔 <a href="https://github.com/Maite-Willinski/maite.github.io">Pagina web personal</a></h4>
-      <p>Este repositorio contiene una página de perfil personal creada utilizando tecnologías web fundamentales: HTML, CSS y JavaScript. El proyecto incluye una interfaz visualmente atractiva con elementos básicos de diseño, como imágenes, estilos personalizados y funcionalidad interactiva.
-
- Activity.</p>
-      <code>HTML5</code> <code>Diseño Web</code> <code>Estructura</code>
+    <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
+      <h4>👩‍💻 <a href="https://github.com/Maite-Willinski/Pagina-web-personal" style="color: #b39ddb; text-decoration: none;">🌸 Página Web Personal</a></h4>
+      <p style="font-size: 0.95em;">Mi espacio web propio desarrollado de forma autodidacta. Un diseño cuidado al detalle con una interfaz limpia, intuitiva y una estética cuidada que refleja quién soy.</p>
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Design-Responsive-ff79c6?style=flat-square" />
     </td>
   </tr>
 </table>
