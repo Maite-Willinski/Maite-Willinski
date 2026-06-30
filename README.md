@@ -10,9 +10,7 @@
   </table>
 </div>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/?username=Maite-Willinski&color=b39ddb&style=flat-square" alt="Profile Views" />
-</p>
+<br>
 
 <h1 align="center">¡Hola! Soy Maite Willinski 👋 ✨</h1>
 
@@ -102,19 +100,10 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 
 ---
 
-## 📊 Mis Estadísticas (Tech Mode 🌌)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maite-Willinski&show_icons=true&theme=omni&icon_color=b39ddb&title_color=b39ddb&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maite-Willinski&layout=compact&theme=omni&title_color=b39ddb&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
----
-
 ## 🐍 Mi Actividad en Código
 
 <p align="center">
-  <!-- Animación dinámica de la serpiente comiendo píxeles lila -->
+  <!-- Una bonita animación minimalista de la serpiente -->
   <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
