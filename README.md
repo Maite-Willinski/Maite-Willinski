@@ -42,6 +42,14 @@
 <!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
+## 🎯 Mis Objetivos para este Año 🚀
+* 🗄️ Dominar el despliegue de servidores web seguros (Nginx/Apache) sobre distribuciones Linux avanzadas.
+* 🛠️ Integrar JavaScript dinámico en mis interfaces web para crear proyectos interactivos complejos.
+* 📦 Aprender los fundamentos de Docker para empaquetar mis entornos de prácticas.
+
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+
 ## 🚀 Mis Proyectos Destacados 📂
 
 A continuación, algunos de los proyectos en los que he estado trabajando recientemente:
