@@ -59,7 +59,7 @@ A continuación, los proyectos principales donde conecto lógica, diseño y estr
   <tr>
     <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
       <h4>💻 <a href="https://github.com/Maite-Willinski/Mi-portfolio" style="color: #b39ddb; text-decoration: none;">✨ Mi Porfolio Académico</a></h4>
-      <p style="font-size: 0.95em;">Mi espacio web principal concebido originalmente para la asignatura HLC. Orientado a documentar mi evolución técnica, estructurado con Bootstrap para garantizar un despliegue responsive impecable.</p>
+      <p style="font-size: 0.95em; color: #c9d1d9; min-height: 70px;">Mi espacio web principal concebido originalmente para la asignatura HLC. Orientado a documentar mi evolución técnica, estructurado con Bootstrap para garantizar un despliegue responsive impecable.</p>
       <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -67,7 +67,7 @@ A continuación, los proyectos principales donde conecto lógica, diseño y estr
     </td>
     <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
       <h4>👩‍💻 <a href="https://github.com/Maite-Willinski/Pagina-web-personal" style="color: #b39ddb; text-decoration: none;">🌸 Página Web Personal</a></h4>
-      <p style="font-size: 0.95em;">Laboratorio personal donde experimento de forma autodidacta con layouts limpios. Un diseño cuidado que prioriza la semántica web, la optimización visual y una estética lila minimalista.</p>
+      <p style="font-size: 0.95em; color: #c9d1d9; min-height: 70px;">Laboratorio personal donde experimento de forma autodidacta con layouts limpios. Un diseño cuidado que prioriza la semántica web, la optimización visual y una estética lila minimalista.</p>
       <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
