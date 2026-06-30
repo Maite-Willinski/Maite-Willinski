@@ -90,23 +90,23 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
       <h4>💻 <a href="https://github.com/Maite-Willinski/Mi-portfolio" style="color: #b39ddb; text-decoration: none;">✨ Mi Porfolio Académico</a></h4>
       <p style="font-size: 0.95em; color: #c9d1d9; min-height: 75px;">Mi espacio web principal concebido originalmente para la asignatura HLC. Orientado a documentar mi evolución técnica, estructurado con Bootstrap para garantizar un despliegue responsive impecable.</p>
       <br>
+      <a href="https://maite-willinski.github.io/Mi-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-9575cd?style=flat-square" alt="Live Demo" /></a>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
     </td>
     <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
       <h4>👩‍💻 <a href="https://github.com/Maite-Willinski/Pagina-web-personal" style="color: #b39ddb; text-decoration: none;">🌸 Página Web Personal</a></h4>
       <p style="font-size: 0.95em; color: #c9d1d9; min-height: 75px;">Laboratorio personal donde experimento de forma autodidacta con layouts limpios. Un diseño cuidado que prioriza la semántica web, la optimización visual y una estética lila minimalista.</p>
       <br>
+      <a href="https://maite-willinski.github.io/Pagina-web-personal/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-ff79c6?style=flat-square" alt="Live Demo" /></a>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Design-Responsive-ff79c6?style=flat-square" />
     </td>
   </tr>
 </table>
 
 <!-- SEPARADOR NATIVO LILA -->
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🧪 Laboratorios de Infraestructura y Prácticas (ASIR / SMR) 📑
 *Espacio dedicado a centralizar las configuraciones, maquetas y entornos lógicos que desarrolle en mis asignaturas:*
@@ -114,7 +114,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 * 📂 **`/linux-server-labs`:** Repositorio de scripts Bash para automatización y configuraciones de servicios esenciales (DHCP, DNS, servidores Apache/Nginx).
 
 <!-- SEPARADOR NATIVO LILA -->
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🛠️ Stack Tecnológico & Entorno Operativo
 
@@ -143,7 +143,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 </table>
 
 <!-- SEPARADOR NATIVO LILA -->
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🧠 Metodologías & Habilidades Profesionales
 - 📑 **Documentación Técnica:** Creación de manuales detallados de sistemas y guías de despliegue limpias y reutilizables.
@@ -151,7 +151,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 - 👥 **Cultura Ágil:** Familiarizada con tableros Kanban (Trello/GitHub Projects) y dinámicas ágiles orientadas al cumplimiento de sprints.
 
 <!-- SEPARADOR NATIVO LILA -->
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 💻 Mi Entorno de Trabajo Diario (Setup)
 - **Sistema Principal:** Windows 11 Home + Terminal de comandos personalizada en color lila.
@@ -159,7 +159,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 - **Editor Favorito:** VS Code optimizado con extensiones de indentación y temas oscuros.
 
 <!-- SEPARADOR NATIVO LILA -->
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 📦 Bitácora & Cheat Sheets Operativas 🛠️
 
