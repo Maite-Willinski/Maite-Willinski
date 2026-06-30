@@ -5,6 +5,8 @@
       <td align="center" style="background: linear-gradient(135deg, #4a148c 0%, #9575cd 50%, #b39ddb 100%); padding: 40px 20px; border-radius: 10px;">
         <h1 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">Maite Willinski</h1>
         <p style="color: #f3e5f5; font-size: 1.2em; margin-top: 10px; font-weight: bold;">🎓 SMR Graduate | 🚀 ASIR Student | 💻 Web Developer</p>
+        <br>
+        <img src="https://img.shields.io/badge/Status-Open%20To%20Work-9575cd?style=for-the-badge&labelColor=121212&color=b39ddb" alt="Open to work" />
       </td>
     </tr>
   </table>
@@ -15,13 +17,15 @@
 <h1 align="center">¡Hola! Soy Maite Willinski 👋 ✨</h1>
 
 <p align="center">
-  Soy una apasionada de la tecnología en constante evolución. Tras graduarme en <strong>SMR</strong>, donde descubrí mi amor por la infraestructura y las redes, he decidido dar el salto a <strong>ASIR</strong> para especializarme en la administración de sistemas. Al mismo tiempo, exploro mi lado más creativo aprendiendo <strong>Desarrollo Web</strong> por mi cuenta. ¡Me encanta unir lo mejor de ambos mundos! En busca de mi primera oportunidad laboral. 🌟
+  Soy una apasionada de la tecnología en constante evolución. Tras graduarme en <strong>SMR</strong>, donde descubrí mi amor por la infraestructura y las redes, he decidido dar el salto a <strong>ASIR</strong> para especializarme en la administración de sistemas. Al mismo tiempo, exploro mi lado más creativo aprendiendo <strong>Desarrollo Web</strong> por mi cuenta. ¡Me encanta unir lo mejor de ambos mundos! En busca de mi primera oportunidad laboral o de prácticas. 🌟
 </p>
 
 ---
 
 ## ⚡ Actualmente enfocada en...
 > 🔭 **¿En qué estoy trabajando esta semana?** Perfeccionando la lógica de mis layouts web con CSS avanzado y preparando mis primeros entornos locales Linux para el inicio de ASIR.
+> <br>
+> 🎧 **Coding Mood:** Concentrada con música Lo-Fi, café en mano y mi terminal lila lista. ☕ 💜
 
 ---
 
@@ -71,24 +75,27 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Mi Stack Tecnológico & Entorno
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🌐 Desarrollo Web (Frontend)</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <td align="center" width="33%" valign="top">
+      <h3>🌐 Desarrollo Web</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <br><br>
-      <i>Próximamente: JavaScript & Bootstrap 🚀</i>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🖥️ Sistemas y Redes (SMR / ASIR)</h3>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
-      <br>
-      <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+    <td align="center" width="33%" valign="top">
+      <h3>🖥️ Sistemas y Redes</h3>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br><br>
+      <img src="https://img.shields.io/badge/Win_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" /><br><br>
+      <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /><br><br>
       <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🧰 Herramientas</h3>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
 </table>
