@@ -40,7 +40,6 @@ A continuación, algunos de los proyectos en los que he estado trabajando recien
     <td width="50%" valign="top">
       <h4>💻 <a href="https://github.com/Maite-Willinski/Mi-portfolio">Mi Portfolio Académico</a></h4>
       <p>Mi primer portfolio personal creado durante la asignatura HLC. Desarrollado con HTML, CSS, JavaScript y Bootstrap.</p>
-      <!-- Badges pequeños dentro del proyecto -->
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
     </td>
     <td width="50%" valign="top">
@@ -86,11 +85,37 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 
 ---
 
+## 📦 Mis Chuletas y Comandos Útiles (ASIR / SMR) 🛠️
+
+<details>
+  <summary><b>💡 Haz clic aquí para ver mis apuntes rápidos de Sistemas</b></summary>
+  <br>
+  
+  ### 🐧 Linux comandos rápidos
+  * `sudo apt update && sudo apt upgrade -y` - Actualizar el sistema completo.
+  * `chmod +x script.sh` - Dar permisos de ejecución a un script.
+  
+  ### 🌐 Redes (Cisco / CMD)
+  * `ipconfig /all` - Mostrar toda la configuración de red en Windows.
+  * `ping 8.8.8.8` - Comprobar conexión externa con el DNS de Google.
+</details>
+
+---
+
 ## 📊 Mis Estadísticas (Tech Mode 🌌)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maite-Willinski&show_icons=true&theme=omni&icon_color=b39ddb&title_color=b39ddb&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maite-Willinski&layout=compact&theme=omni&title_color=b39ddb&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+## 🐍 Mi Actividad en Código
+
+<p align="center">
+  <!-- Animación dinámica de la serpiente comiendo píxeles lila -->
+  <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
