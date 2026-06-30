@@ -20,6 +20,11 @@
 
 ---
 
+## ⚡ Actualmente enfocada en...
+> 🔭 **¿En qué estoy trabajando esta semana?** Perfeccionando la lógica de mis layouts web con CSS avanzado y preparando mis primeros entornos locales Linux para el inicio de ASIR.
+
+---
+
 ## 🔮 Sobre Mí
 
 - 🎓 **Mi Base:** Graduada en Sistemas Microinformáticos y Redes (SMR).
@@ -50,7 +55,14 @@ A continuación, algunos de los proyectos en los que he estado trabajando recien
 
 ---
 
-## 🗺️ Mi Roadmap de Aprendizaje (2026) 🎯
+## 🧪 Mis Laboratorios de Prácticas (ASIR / SMR) 📑
+*Próximamente iré subiendo aquí los repositorios de mis despliegues y proyectos de clase:*
+* 📂 **`/asir-networks`:** Configuraciones de routing, switching y direccionamiento IP (Cisco Packet Tracer).
+* 📂 **`/linux-server-labs`:** Scripts de automatización en Bash y despliegues de servicios (DHCP, DNS, Apache) en entornos Linux.
+
+---
+
+## 🗺️ Mi Roadmap de Aprendizaje 🎯
 
 Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dónde voy:
 
@@ -83,10 +95,10 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 
 ---
 
-## 📦 Mis Chuletas y Comandos Útiles (ASIR / SMR) 🛠️
+## 📦 Mis Chuletas y Comandos Útiles 🛠️
 
 <details>
-  <summary><b>💡 Haz clic aquí para ver mis apuntes rápidos de Sistemas</b></summary>
+  <summary><b>💡 Haz clic aquí para ver mi "Cheat Sheet" rápida de comandos</b></summary>
   <br>
   
   ### 🐧 Linux comandos rápidos
@@ -100,10 +112,15 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 
 ---
 
+## 📚 Recursos que utilizo para aprender 🧠
+* 📖 Documentación oficial de MDN Web Docs (para HTML/CSS/JS).
+* 🧪 Entornos virtuales locales en VirtualBox para romper y arreglar sistemas de forma segura.
+
+---
+
 ## 🐍 Mi Actividad en Código
 
 <p align="center">
-  <!-- Una bonita animación minimalista de la serpiente -->
   <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
