@@ -62,8 +62,10 @@ A continuación, algunos de los proyectos en los que he estado trabajando recien
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
     </td>
     <td width="50%" valign="top" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px;">
-      <h4>🍔 <a href="https://github.com/Maite-Willinski/SItio-web-con-html">Sitio Web de Restaurante</a></h4>
-      <p>Un sitio web estático completo de 10 páginas para un restaurante. Incluye menú interactivo, formularios y políticas de privacidad.</p>
+      <h4>🍔 <a href="https://github.com/Maite-Willinski/maite.github.io">Pagina web personal</a></h4>
+      <p>Este repositorio contiene una página de perfil personal creada utilizando tecnologías web fundamentales: HTML, CSS y JavaScript. El proyecto incluye una interfaz visualmente atractiva con elementos básicos de diseño, como imágenes, estilos personalizados y funcionalidad interactiva.
+
+ Activity.</p>
       <code>HTML5</code> <code>Diseño Web</code> <code>Estructura</code>
     </td>
   </tr>
