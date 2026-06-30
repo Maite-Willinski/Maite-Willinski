@@ -21,18 +21,16 @@
   Soy una apasionada de la tecnología en constante evolución. Tras graduarme en <strong>SMR</strong>, donde descubrí mi amor por la infraestructura y las redes, he decidido dar el salto a <strong>ASIR</strong> para especializarme en la administración de sistemas. Al mismo tiempo, exploro mi lado más creativo aprendiendo <strong>Desarrollo Web</strong> por mi cuenta. ¡Me encanta unir lo mejor de ambos mundos! En busca de mi primera oportunidad laboral o de prácticas. 🌟
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## ⚡ Actualmente enfocada en...
 > 🔭 **¿En qué estoy trabajando esta semana?** Perfeccionando la lógica de mis layouts web con CSS avanzado y preparando mis primeros entornos locales Linux para el inicio de ASIR.
 > <br>
 > 🎧 **Coding Mood:** Concentrada con música Lo-Fi, café en mano y mi terminal lila lista. ☕ 💜
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🔮 Sobre Mí
 
@@ -41,9 +39,8 @@
 - 👩‍💻 **Mi Lado Web:** Aprendiendo lenguajes y layouts modernos de forma autodidacta.
 - 🎨 **Mi Enfoque:** Crear soluciones técnicas que no solo funcionen a la perfección, sino que también tengan un diseño limpio, cuidado y estético.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🚀 Mis Proyectos Destacados 📂
 
@@ -64,18 +61,16 @@ A continuación, algunos de los proyectos en los que he estado trabajando recien
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🧪 Mis Laboratorios de Prácticas (ASIR / SMR) 📑
 *Próximamente iré subiendo aquí los repositorios de mis despliegues y proyectos de clase:*
 * 📂 **`/asir-networks`:** Configuraciones de routing, switching y direccionamiento IP (Cisco Packet Tracer).
 * 📂 **`/linux-server-labs`:** Scripts de automatización en Bash y despliegues de servicios (DHCP, DNS, Apache) en entornos Linux.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🗺️ Mi Roadmap de Aprendizaje 🎯
 
@@ -84,9 +79,8 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 - **En Progreso 🛠️:** Profundizar en bases de datos relacionales, modularización con **JavaScript moderno** y layouts avanzados con CSS/Flexbox.
 - **Próximamente 🎯:** Automatización en Linux (Bash scripting), virtualización avanzada y despliegues en contenedores (**Docker**).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🛠️ Mi Stack Tecnológico & Entorno
 
@@ -113,9 +107,8 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 📦 Mis Chuletas y Comandos Útiles 🛠️
 
@@ -138,9 +131,8 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
 * 📖 Documentación oficial de MDN Web Docs (para HTML/CSS/JS).
 * 🧪 Entornos virtuales locales en VirtualBox para romper y arreglar sistemas de forma segura.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🐍 Mi Actividad en Código
 
@@ -148,9 +140,8 @@ Aquí puedes ver en qué tecnologías me estoy enfocando actualmente y hacia dó
   <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Línea decorativa lila" />
-</p>
+<!-- SEPARADOR NATIVO LILA -->
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 30px 0;">
 
 ## 🍇 Conectemos
 
