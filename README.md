@@ -207,7 +207,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
           <img src="https://img.shields.io/badge/LinkedIn-9575cd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         &nbsp;&nbsp;
-        <a href="mailto:maite15022000@gmail.com">
+        <a href="mailto:maitewillinskigonzalez@gmail.com">
           <img src="https://img.shields.io/badge/Email-b39ddb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
