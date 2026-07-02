@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- BANNER NATIVO EN DEGRADADO LILA AVANZADO -->
   <table width="100%">
     <tr>
       <td align="center" style="background: linear-gradient(135deg, #2e0854 0%, #4a148c 40%, #7c4dff 100%); padding: 55px 20px; border-radius: 16px; border: 1px solid #7c4dff;">
@@ -25,28 +26,24 @@
   En paralelo, desarrollo mi faceta autodidacta en el <strong>Desarrollo Web Frontend</strong>. Mi meta es clara: fusionar ambos mundos. Diseñar interfaces estéticas, limpias e intuitivas por delante utilizando HTML, CSS y JavaScript nativo en Visual Studio Code, mientras aseguro e infraestructuro los servidores y entornos lógicos que las sostienen por detrás. 🚀
 </p>
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 📊 Métricas de Rendimiento Personal (Simulación de Infraestructura)
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="25%" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px; border: 1px solid #4a148c;">
-      <h3 style="color: #b39ddb; margin: 0;">⚡ Disponibilidad</h3>
-      <p style="font-size: 1.8em; font-weight: bold; margin: 10px 0; color: #fff;">99.9%</p>
-      <small style="color: #888;">Motivación y constancia diaria</small>
-    </td>
-    <td align="center" width="25%" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px; border: 1px solid #4a148c;">
+    <td align="center" width="33.3%" style="background-color: #1a1a2e; border-radius: 8px; padding: 18px; border: 1px solid #4a148c;">
       <h3 style="color: #b39ddb; margin: 0;">🎨 UI/UX Layouts</h3>
       <p style="font-size: 1.8em; font-weight: bold; margin: 10px 0; color: #fff;">Clean & Pixel</p>
       <small style="color: #888;">Estética web semántica</small>
     </td>
-    <td align="center" width="25%" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px; border: 1px solid #4a148c;">
+    <td align="center" width="33.3%" style="background-color: #1a1a2e; border-radius: 8px; padding: 18px; border: 1px solid #4a148c;">
       <h3 style="color: #b39ddb; margin: 0;">🐧 Prácticas SMR</h3>
       <p style="font-size: 1.8em; font-weight: bold; margin: 10px 0; color: #fff;">Hardware & SO</p>
       <small style="color: #888;">Soporte técnico y talleres</small>
     </td>
-    <td align="center" width="25%" style="background-color: #1a1a2e; border-radius: 8px; padding: 15px; border: 1px solid #4a148c;">
+    <td align="center" width="33.3%" style="background-color: #1a1a2e; border-radius: 8px; padding: 18px; border: 1px solid #4a148c;">
       <h3 style="color: #b39ddb; margin: 0;">📚 Aprendizaje</h3>
       <p style="font-size: 1.8em; font-weight: bold; margin: 10px 0; color: #fff;">Continuous</p>
       <small style="color: #888;">Evolución y documentación</small>
@@ -54,6 +51,7 @@
   </tr>
 </table>
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🔮 Sobre Mí & Filosofía de Trabajo
@@ -66,6 +64,7 @@
   - 🔒 *La seguridad no es una característica opcional, se diseña desde el primer día.*
   - 🎨 *El backend robusto merece una cara bonita: interfaces cuidadas con paletas coherentes.*
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## ⚡ Enfoque e Investigación Semanal
@@ -73,44 +72,66 @@
 > <br>
 > 🎧 **Coding Mood:** Concentrada entre scripts, estructuras de red y layouts con música Lo-Fi, café en mano y mi terminal lila siempre lista. ☕ 💜
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🚀 Proyectos Destacados 📂
 
-Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación moderna:
+*Los pilares de mi portafolio donde conecto la lógica de sistemas con maquetaciones limpias y estructuradas:*
 
-<div style="background-color: #1a1a2e; border: 1px solid #7c4dff; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <h4>🖥️ <a href="https://github.com/Maite-Willinski/net-troubleshooter" style="color: #b39ddb; text-decoration: none;">🛡️ Net-Troubleshooter — MaiteOS v1.0.2</a></h4>
-  <p style="font-size: 0.95em; color: #c9d1d9; margin-top: 8px;">Simulador interactivo de consola de comandos enfocado en el diagnóstico de infraestructura de red y soporte técnico de sistemas. Cuenta con lógica nativa en JavaScript para procesar comandos en tiempo real (<code>ping</code>, <code>ifconfig</code>, <code>diagnostico</code>) y una interfaz retro cuidada con efectos visuales de monitor CRT mediante CSS.</p>
-  <br>
-  <a href="https://maite-willinski.github.io/net-troubleshooter/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-9575cd?style=flat-square" alt="Live Demo" /></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
-      <h4>📊 <a href="https://github.com/Maite-Willinski/NetPulse" style="color: #b39ddb; text-decoration: none;">⚡ NetPulse — SysOps Dashboard</a></h4>
-      <p style="font-size: 0.95em; color: #c9d1d9; min-height: 95px;">Prototipo de cuadro de mando de alta fidelidad diseñado para simular tareas críticas de SysOps y monitorización. Incluye maquetación estática interactiva ideal para practicar estructuras de alineación complejas en CSS, paneles de alertas y distribución de componentes visuales.</p>
-      <br>
-      <a href="https://maite-willinski.github.io/NetPulse/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-9575cd?style=flat-square" alt="Live Demo" /></a>
+<!-- PROYECTO 1: NET-TROUBLESHOOTER (DISEÑO PREMIUM ENMARCADO) -->
+<div style="background: linear-gradient(#1a1a2e, #1a1a2e) padding-box, linear-gradient(135deg, #7c4dff, #ff79c6) border-box; border: 2px solid transparent; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(124, 77, 255, 0.15);">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <h3 style="margin: 0; color: #fff; font-size: 1.4em;">🖥️ Net-Troubleshooter — MaiteOS <code style="color: #e040fb; font-size: 0.7em; background: rgba(224, 64, 251, 0.1); padding: 3px 8px; border-radius: 4px;">v1.0.2</code></h3>
+  </div>
+  <p style="font-size: 0.98em; color: #c9d1d9; margin-top: 12px; line-height: 1.6;">
+    Simulador interactivo de consola de comandos enfocado en el diagnóstico de infraestructura de red y soporte técnico de sistemas. Cuenta con lógica nativa en <strong>JavaScript Vanilla</strong> para procesar comandos en tiempo real (<code>ping</code>, <code>ifconfig</code>, <code>diagnostico</code>) y una interfaz retro sumamente cuidada con efectos visuales de monitor CRT mediante hojas de estilo avanzadas.
+  </p>
+  <div style="margin-top: 15px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+    <a href="https://maite-willinski.github.io/net-troubleshooter/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Despliegue%20En%20Vivo-%F0%9F%94%97-7c4dff?style=for-the-badge" alt="Live Demo" /></a>
+    <a href="https://github.com/Maite-Willinski/net-troubleshooter" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repositorio-%F0%9F%93%A5-ff79c6?style=for-the-badge" alt="Repository" /></a>
+    <span style="margin-left: auto;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
-      <h4>👩‍💻 <a href="https://github.com/Maite-Willinski/maite.github.io" style="color: #b39ddb; text-decoration: none;">🌸 Página Web Personal & Link-in-Bio</a></h4>
-      <p style="font-size: 0.95em; color: #c9d1d9; min-height: 95px;">Laboratorio y portafolio personal construido desde cero utilizando VS Code. Un diseño cuidado al detalle con una estética lila y tonos pastel coherentes, enfocado en el uso correcto de etiquetas HTML semánticas y adaptabilidad móvil.</p>
-      <br>
-      <a href="https://maite.github.io/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-ff79c6?style=flat-square" alt="Live Demo" /></a>
+    </span>
+  </div>
+</div>
+
+<!-- PROYECTO 2: NETPULSE (DISEÑO PREMIUM ENMARCADO) -->
+<div style="background: linear-gradient(#1a1a2e, #1a1a2e) padding-box, linear-gradient(135deg, #4a148c, #7c4dff) border-box; border: 2px solid transparent; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(74, 20, 140, 0.15);">
+  <h3 style="margin: 0; color: #fff; font-size: 1.3em;">📊 NetPulse — SysOps Dashboard</h3>
+  <p style="font-size: 0.98em; color: #c9d1d9; margin-top: 12px; line-height: 1.6;">
+    Prototipo de cuadro de mando de alta fidelidad diseñado para simular tareas críticas de SysOps y monitorización de servidores. Este proyecto nació como un entorno experimental para perfeccionar arquitecturas complejas de alineación, maquetando paneles dinámicos de alertas de red y distribución simétrica de componentes visuales con CSS puro.
+  </p>
+  <div style="margin-top: 15px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+    <a href="https://maite-willinski.github.io/NetPulse/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Despliegue%20En%20Vivo-%F0%9F%94%97-4a148c?style=for-the-badge" alt="Live Demo" /></a>
+    <a href="https://github.com/Maite-Willinski/NetPulse" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repositorio-%F0%9F%93%A5-7c4dff?style=for-the-badge" alt="Repository" /></a>
+    <span style="margin-left: auto;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-</table>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </span>
+  </div>
+</div>
 
+<!-- PROYECTO 3: WEB PERSONAL (DISEÑO PREMIUM ENMARCADO) -->
+<div style="background: linear-gradient(#1a1a2e, #1a1a2e) padding-box, linear-gradient(135deg, #4a148c, #ff79c6) border-box; border: 2px solid transparent; border-radius: 12px; padding: 25px; margin-bottom: 5px; box-shadow: 0 4px 20px rgba(255, 121, 198, 0.15);">
+  <h3 style="margin: 0; color: #fff; font-size: 1.3em;">🌸 Página Web Personal & Link-in-Bio</h3>
+  <p style="font-size: 0.98em; color: #c9d1d9; margin-top: 12px; line-height: 1.6;">
+    Mi portafolio y espacio centralizado en la web desarrollado completamente desde cero usando código limpio en VS Code. El diseño prioriza la semántica de las etiquetas estructurales de HTML5, optimización ágil de rendimiento visual y una estética lila muy cuidada adaptada a todo tipo de pantallas móviles.
+  </p>
+  <div style="margin-top: 15px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+    <a href="https://maite.github.io/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Despliegue%20En%20Vivo-%F0%9F%94%97-4a148c?style=for-the-badge" alt="Live Demo" /></a>
+    <a href="https://github.com/Maite-Willinski/maite.github.io" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Repositorio-%F0%9F%93%A5-ff79c6?style=for-the-badge" alt="Repository" /></a>
+    <span style="margin-left: auto;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </span>
+  </div>
+</div>
+
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🧪 Laboratorios de Infraestructura y Prácticas (SMR / ASIR Prep) 📑
@@ -118,6 +139,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 * 📂 **`/asir-networks`:** Control de versiones para topologías de red, esquemas de enrutamiento y switching de cara al ciclo superior.
 * 📂 **`/linux-server-labs`:** Repositorio de scripts Bash para automatización y preparativos de servicios esenciales (DHCP, DNS, servidores Apache/Nginx).
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🛠️ Stack Tecnológico & Entorno Operativo
@@ -145,6 +167,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
   </tr>
 </table>
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🧠 Metodologías & Habilidades Profesionales
@@ -152,6 +175,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 - 🌿 **Flujos de Trabajo:** Gestión de ramas ordenada mediante Git para mantener a salvo la integridad del código fuente de mis proyectos web.
 - 👥 **Cultura Ágil:** Familiarizada con tableros Kanban (GitHub Projects) y dinámicas ágiles orientadas al cumplimiento de objetivos semanales.
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 💻 Mi Entorno de Trabajo Diario (Setup)
@@ -159,6 +183,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 - **Entornos de Pruebas:** Máquinas virtuales basadas en distribuciones Linux para laboratorios y testing en VirtualBox.
 - **Editor Favorito:** VS Code optimizado con extensiones de indentación y temas oscuros pastel.
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 📦 Bitácora & Cheat Sheets Operativas 🛠️
@@ -182,6 +207,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 * 📖 Cores y estándares de diseño en MDN Web Docs (Estructura y estilos maquetados de forma semántica).
 * 🧪 Orquestación y pruebas controladas en VirtualBox para despliegues locales seguros antes de pasarlos a producción académica.
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🐍 Mi Actividad en Código
@@ -190,6 +216,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
   <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
+<!-- SEPARADOR NATIVO LILA -->
 <hr style="border: 0; height: 3px; background: linear-gradient(to right, rgba(74, 20, 140, 0), #9575cd, rgba(179, 157, 219, 0)); margin: 35px 0;">
 
 ## 🍇 Conectemos
@@ -213,9 +240,6 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 
 <br>
 
-<p align="center">
-  <i>"La tecnología es mejor cuando une a las personas y simplifica los sistemas."</i> 💜
-</p>
 <p align="center">
   <i>"La tecnología es mejor cuando une a las personas y simplifica los sistemas."</i> 💜
 </p>
