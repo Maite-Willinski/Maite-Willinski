@@ -187,27 +187,6 @@ Estas son las tecnologías y herramientas con las que trabajo actualmente y cont
 
 </div>
 
----
-
-# 📬 Contacto
-
-Si quieres hablar sobre tecnología, compartir ideas o simplemente saludar, puedes encontrarme aquí:
-
-<div align="center">
-
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### 💜 Gracias por visitar mi perfil
 
