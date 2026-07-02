@@ -17,7 +17,7 @@ Apasionada por la Administración de Sistemas y el Desarrollo Web</p>
 ---
 
 ## 👋 Sobre mí
-Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología tanto **por dentro** como **por fuera**. Mi objetivo es unir mis dos pasiones: **Administración de Sistemas** y **Desarrollo Web**, creando aplicaciones funcionales sobre infraestructuras robustas.
+Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología tanto **por dentro** como **por fuera**. Mi objetivo es unir mis dos pasiones: la **Administración de Sistemas** y el **Desarrollo Web**, creando aplicaciones funcionales sobre infraestructuras robustas, seguras y escalables.
 
 ---
 
@@ -38,7 +38,7 @@ Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología t
 ---
 
 ## 🚀 Proyectos Destacados
-* **[Net-Troubleshooter](https://github.com/Maite-Willinski/net-troubleshooter)**: Simulador de terminal retro para diagnóstico de red (JS Vanilla). [🔗 **Ver Demo**](https://maite-willinski.github.io/net-troubleshooter/)
+* **[Net-Troubleshooter](https://github.com/Maite-Willinski/net-troubleshooter)**: Simulador de terminal retro para diagnóstico de red. [🔗 **Ver Demo**](https://maite-willinski.github.io/net-troubleshooter/)
 * **[NetPulse](https://github.com/Maite-Willinski/NetPulse)**: Dashboard experimental de monitorización de infraestructura. [🔗 **Ver Demo**](https://maite-willinski.github.io/NetPulse/)
 * **[Portfolio](https://github.com/Maite-Willinski/maite.github.io)**: Mi espacio personal desarrollado desde cero. [🔗 **Ver Demo**](https://maite.github.io/)
 
@@ -52,7 +52,7 @@ Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología t
 ---
 
 ## 🐧 Laboratorios
-* **Networking Labs**: Subredes, Switching, Routing, VirtualBox.
+* **Networking Labs**: Subredes, Switching, Routing, Virtualización.
 * **Linux Labs**: Gestión de usuarios, permisos, servicios y administración.
 
 ---
@@ -60,7 +60,7 @@ Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología t
 ## 💡 Filosofía y Recursos
 > *"Una buena infraestructura merece una buena interfaz."*
 
-* **Forma de trabajar**: Código limpio, semántico, Git desde el día uno y automatización.
+* **Forma de trabajar**: Código limpio y semántico, Git desde el día uno y automatización.
 * **Recursos favoritos**: [MDN Web Docs](https://developer.mozilla.org/), [Linux Journey](https://linuxjourney.com/), [Microsoft Learn](https://learn.microsoft.com/), [GitHub Docs](https://docs.github.com/).
 
 ---
@@ -81,6 +81,8 @@ Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología t
 
 [<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maite-willinski-gonz%C3%A1lez-b05706268/)
 [<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:maitewillinskigonzalez@gmail.com)
+
+<br>
 
 *"La mejor forma de aprender tecnología es construir, romper, documentar y volver a construir."*
 
