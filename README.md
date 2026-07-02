@@ -23,7 +23,7 @@
   Soy una apasionada de la tecnología en constante evolución. Tras graduarme en <strong>SMR (Sistemas Microinformáticos y Redes)</strong>, donde consolidé mi base en redes y hardware, he decidido dar el salto a <strong>ASIR (Administración de Sistemas Informáticos en Red)</strong> para especializarme en la administración de sistemas complejos, gestión de servidores y entornos distribuidos. 
 </p>
 <p align="center">
-  En paralelo, desarrollo mi faceta autodidacta en el <strong>Desarrollo Web Frontend (DAW)</strong>. Mi meta es clara: fusionar ambos worlds. Diseñar interfaces estéticas, limpias e intuitivas por delante, mientras aseguro e infraestructuro los servidores y contenedores que las sostienen por detrás. 🚀
+  En paralelo, desarrollo mi faceta autodidacta en el <strong>Desarrollo Web Frontend (DAW)</strong>. Mi meta es clara: fusionar ambos mundos. Diseñar interfaces estéticas, limpias e intuitivas por delante, mientras aseguro e infraestructuro los servidores y contenedores que las sostienen por detrás. 🚀
 </p>
 
 <!-- SEPARADOR NATIVO LILA -->
@@ -63,7 +63,7 @@
 
 - 🎓 **Trayectoria Sólida:** Graduada en Sistemas Microinformáticos y Redes (SMR).
 - 📚 **Especialización en Curso:** Futura estudiante de Administración de Sistemas Informáticos en Red (ASIR).
-- 👩‍💻 **Core de Desarrollo:** Especializándome en estructuración web moderna (Layouts adaptativos, Javascript nativo y buenas prácticas de accesibilidad).
+- 👩‍💻 **Core de Desarrollo:** Especializándome en estructuración web moderna (Layouts adaptativos, JavaScript nativo y buenas prácticas de accesibilidad).
 - 🛠️ **Mi Manifiesto:**
   - 🔄 *Si lo vas a hacer más de tres veces, automatízalo.*
   - 🔒 *La seguridad no es una característica opcional, se diseña desde el primer día.*
@@ -84,21 +84,19 @@
 
 Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación moderna:
 
+<!-- PROYECTO ESTRELLA 1: NET-TROUBLESHOOTER (ANCHO COMPLETO OUTSIDE TABLE) -->
+<div style="background-color: #1a1a2e; border: 1px solid #7c4dff; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h4>🖥️ <a href="https://github.com/Maite-Willinski/net-troubleshooter" style="color: #b39ddb; text-decoration: none;">🛡️ Net-Troubleshooter — MaiteOS v1.0.2</a></h4>
+  <p style="font-size: 0.95em; color: #c9d1d9; margin-top: 8px;">Simulador interactivo de consola de comandos enfocado en el diagnóstico de infraestructura de red y soporte técnico de sistemas. Cuenta con lógica nativa en JavaScript para procesar comandos en tiempo real (<code>ping</code>, <code>ifconfig</code>, <code>diagnostico</code>) y una interfaz retro cuidada con efectos visuales de monitor CRT mediante CSS.</p>
+  <br>
+  <a href="https://maite-willinski.github.io/net-troubleshooter/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-9575cd?style=flat-square" alt="Live Demo" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+<!-- FILA DE DOS COLUMNAS DEBAJO -->
 <table width="100%">
-  <!-- PROYECTO ESTRELLA 1: NET-TROUBLESHOOTER (PANTALLA COMPLETA) -->
-  <tr>
-    <td width="100%" valign="top" style="background-color: #1a1a2e; border: 1px solid #7c4dff; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: block;">
-      <h4>🖥️ <a href="https://github.com/Maite-Willinski/net-troubleshooter" style="color: #b39ddb; text-decoration: none;">🛡️ Net-Troubleshooter — MaiteOS v1.0.2</a></h4>
-      <p style="font-size: 0.95em; color: #c9d1d9; margin-top: 8px;">Simulador interactivo de consola de comandos enfocado en el diagnóstico de infraestructura de red y soporte técnico de sistemas. Cuenta con lógica nativa en JavaScript para procesar comandos en tiempo real (<code>ping</code>, <code>ifconfig</code>, <code>diagnostico</code>) y una interfaz retro cuidada con efectos visuales de monitor CRT mediante CSS.</p>
-      <br>
-      <a href="https://maite-willinski.github.io/net-troubleshooter/" target="_blank"><img src="https://img.shields.io/badge/Demo-%F0%9F%94%97-9575cd?style=flat-square" alt="Live Demo" /></a>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  
-  <!-- FILA DE DOS COLUMNAS: NETPULSE + WEB PERSONAL -->
   <tr>
     <!-- PROYECTO 2: NETPULSE -->
     <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
@@ -110,7 +108,6 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    
     <!-- PROYECTO 3: WEB PERSONAL -->
     <td width="50%" valign="top" style="background-color: #1a1a2e; border: 1px solid #4a148c; border-radius: 10px; padding: 20px;">
       <h4>👩‍💻 <a href="https://github.com/Maite-Willinski/maite.github.io" style="color: #b39ddb; text-decoration: none;">🌸 Página Web Personal</a></h4>
@@ -183,7 +180,7 @@ Los pilares de mi portafolio donde conecto lógica de sistemas con maquetación 
 ## 📦 Bitácora & Cheat Sheets Operativas 🛠️
 
 <details>
-  <summary><b>💡 Haz clic aquí para ver mi documentation rápida de comandos útiles</b></summary>
+  <summary><b>💡 Haz clic aquí para ver mi documentación rápida de comandos útiles</b></summary>
   <br>
   
   ### 🐧 Administración Linux
