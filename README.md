@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/maite-willinski-gonzález-b05706268/">
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:maitewillinskigonzalez@gmail.com">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
