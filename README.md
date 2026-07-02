@@ -1,68 +1,102 @@
 <div align="center">
 
-# 💜 Maite Willinski
-
-### Systems Administration • Networking • Frontend Developer
-
-*"Building solid infrastructures while crafting elegant user experiences."*
-
-<br>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-9370DB?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/SMR-Graduate-7B68EE?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Future-ASIR-8A2BE2?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Location-Seville%2C%20Spain-BA55D3?style=for-the-badge">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,8B5CF6,C084FC&height=230&section=header&text=Maite%20Willinski&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Administration%20•%20Networking%20•%20Frontend&descAlignY=58"/>
 
 </div>
 
+<h1 align="center">
+💜 Hola, soy Maite
+</h1>
+
+<p align="center">
+<strong>Técnica en Sistemas Microinformáticos y Redes (SMR)</strong><br>
+Próxima estudiante de <strong>ASIR</strong><br>
+Apasionada por la Administración de Sistemas y el Desarrollo Web
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open_to_Work-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frontend-Learning-C084FC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-Student-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spain-Sevilla-9333EA?style=for-the-badge"/>
+
+</p>
+
 ---
 
-# 👋 Hello World!
+# 👋 Sobre mí
 
-Soy **Maite**, una apasionada de la tecnología con un perfil híbrido entre la **Administración de Sistemas** y el **Desarrollo Web Frontend**.
+Soy una persona curiosa que disfruta aprendiendo cómo funciona la tecnología tanto **por dentro** como **por fuera**.
 
-Actualmente continúo mi formación en **Administración de Sistemas Informáticos en Red (ASIR)** mientras desarrollo proyectos propios para seguir creciendo como desarrolladora Frontend.
+Actualmente continúo mi formación en **Administración de Sistemas Informáticos en Red (ASIR)** mientras desarrollo proyectos personales para seguir mejorando como desarrolladora Frontend.
 
-Me gusta entender cómo funciona una aplicación **de principio a fin**:
+Me gusta combinar dos mundos que normalmente aparecen separados:
 
-- 🖥️ Infraestructura
-- 🌐 Redes
-- 🐧 Linux
-- ⚙️ Automatización
-- 🎨 Interfaces modernas
+🖥️ Administración de Sistemas
 
-Mi objetivo es unir ambos mundos para crear aplicaciones que no solo sean bonitas, sino también robustas, seguras y fáciles de mantener.
+🌐 Desarrollo Web
+
+Mi objetivo es crear aplicaciones bien diseñadas, pero también comprender la infraestructura que las hace funcionar.
 
 ---
 
 # 🚀 Actualmente
 
-- 🎓 Graduada en **Sistemas Microinformáticos y Redes (SMR)**
-- 📚 Próxima estudiante de **ASIR**
-- 💻 Aprendiendo JavaScript en profundidad
-- 🐧 Mejorando mis conocimientos de Linux
-- 🌐 Creando proyectos Frontend desde cero
-- 🔧 Aprendiendo buenas prácticas de Git y GitHub
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Formación
+
+- 🎓 Graduada en SMR
+- 📖 Próxima estudiante de ASIR
+- 💻 Aprendiendo JavaScript
+- 🐧 Mejorando Linux
+
+</td>
+
+<td width="50%">
+
+### 🎯 Objetivos
+
+- Construir proyectos reales
+- Aprender nuevas tecnologías
+- Mejorar cada día
+- Documentar todo el proceso
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💜 Filosofía
+# 💜 Mi filosofía
 
-> **"La tecnología funciona mejor cuando diseño e infraestructura trabajan juntas."**
+> **"Una buena infraestructura merece una buena interfaz."**
 
-Algunas ideas que intento aplicar en todos mis proyectos:
+Intento aplicar estas ideas en todos mis proyectos.
 
-- 🔄 Si una tarea se repite, probablemente pueda automatizarse.
-- 🎯 El código debe ser sencillo de leer.
-- 🔒 La seguridad debe pensarse desde el principio.
-- 🎨 Una buena interfaz mejora cualquier sistema.
+- 🔄 Automatizar siempre que sea posible.
+
+- 📚 Aprender haciendo.
+
+- 🎯 Código sencillo antes que código complejo.
+
+- 🛡️ La seguridad empieza desde el diseño.
+
+- 🌸 La estética también comunica.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Stack Tecnológico
 
 <div align="center">
 
@@ -70,23 +104,59 @@ Algunas ideas que intento aplicar en todos mis proyectos:
 
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
+<br><br>
+
 ## 🖥️ Sistemas
 
-<img src="https://skillicons.dev/icons?i=linux,bash,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+
+<br><br>
 
 ## 🧰 Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-## 📚 Aprendiendo
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📖 Actualmente aprendiendo
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🐧 Linux
+
+</td>
+
+<td align="center">
+
+📜 Bash
+
+</td>
+
+<td align="center">
+
+🌐 Redes
+
+</td>
+
+<td align="center">
+
+⚙️ JavaScript
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
@@ -96,7 +166,7 @@ Algunas ideas que intento aplicar en todos mis proyectos:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -106,60 +176,52 @@ Algunas ideas que intento aplicar en todos mis proyectos:
 
 ---
 
-# 🎯 Objetivos para 2026
+<h2 align="center">
 
-- ✅ Completar ASIR
-- ✅ Dominar JavaScript Vanilla
-- 🔄 Aprender Docker
-- 🔄 Aprender Bash Scripting
-- 🔄 Profundizar en Linux Server
-- 🔄 Redes avanzadas
-- 🔄 Apache & Nginx
-- 🔄 Active Directory
-- 🔄 Primer proyecto Full Stack
+🚀 Proyectos Destacados
 
----
+</h2>
 
-# 💼 Buscando oportunidades
+<p align="center">
 
-Actualmente busco seguir creciendo mediante:
+<em>Donde combino desarrollo web, diseño y conocimientos de sistemas.</em>
 
-- 💜 Prácticas de ASIR
-- 🖥️ Administración de Sistemas
-- 🌐 Desarrollo Frontend
-- 🔧 Soporte IT
-- 🐧 Linux
-- ☁️ Infraestructura
+</p><!-- ========================================================= -->
+<!-- PROYECTOS -->
+<!-- ========================================================= -->
 
----
-
-# ⭐ Proyectos Destacados
 <div align="center">
 
 # 🚀 Proyectos Destacados
 
-*"Estos proyectos representan mi evolución combinando administración de sistemas, redes y desarrollo Frontend."*
+<p>
+Estos proyectos reflejan mi aprendizaje y mi evolución combinando
+<strong>Frontend</strong> y <strong>Administración de Sistemas</strong>.
+</p>
 
 </div>
 
 ---
 
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🖥️ Net-Troubleshooter
 
-> **Simulador interactivo de terminal inspirado en herramientas de administración de sistemas y diagnóstico de redes.**
-
-<img align="right" width="340" src="https://img.shields.io/badge/Version-v1.0.2-8A2BE2?style=for-the-badge">
+Simulador interactivo de terminal inspirado en herramientas de diagnóstico de red y soporte técnico.
 
 ### ✨ Características
 
-- Simulación de comandos reales
-- Terminal retro
-- Diagnóstico de red
+- Terminal interactiva
+- Simulación de comandos
+- Diseño retro
+- Responsive
 - JavaScript Vanilla
-- CSS avanzado
-- Diseño responsive
 
-### 🧠 Tecnologías
+### 🛠 Tecnologías
 
 <p>
 
@@ -169,46 +231,65 @@ Actualmente busco seguir creciendo mediante:
 
 ### 📚 Lo que aprendí
 
-✔ Manipulación avanzada del DOM
+- Manipulación del DOM
+- Eventos de teclado
+- Organización de JavaScript
+- CSS avanzado
+- Interfaces tipo terminal
 
-✔ Parser de comandos
-
-✔ Eventos de teclado
-
-✔ Interfaces retro
-
-✔ Organización de proyectos JavaScript
-
-### 🔗 Enlaces
+<br>
 
 <a href="https://maite-willinski.github.io/net-troubleshooter/">
 
-<img src="https://img.shields.io/badge/🌐%20Demo%20Live-7B68EE?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Demo-8B5CF6?style=for-the-badge">
 
 </a>
 
 <a href="https://github.com/Maite-Willinski/net-troubleshooter">
 
-<img src="https://img.shields.io/badge/📂%20Repositorio-9370DB?style=for-the-badge">
+<img src="https://img.shields.io/badge/📂%20Repositorio-7C3AED?style=for-the-badge">
 
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Maite-Willinski/net-troubleshooter/main/assets/img/preview.png" width="95%">
+
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Maite-Willinski/NetPulse/main/assets/img/preview.png" width="95%">
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 📊 NetPulse
 
-> **Dashboard experimental orientado a la monitorización de servidores e infraestructura.**
+Dashboard experimental inspirado en paneles de monitorización de infraestructura.
 
 ### ✨ Características
 
-- Panel SysOps
+- Dashboard responsive
+- CSS Grid
+- Flexbox
 - Widgets
-- Alertas simuladas
-- Responsive
-- Layout complejo
-- CSS puro
+- Panel visual
 
-### 🧠 Tecnologías
+### 🛠 Tecnologías
 
 <p>
 
@@ -218,45 +299,53 @@ Actualmente busco seguir creciendo mediante:
 
 ### 📚 Lo que aprendí
 
-✔ CSS Grid
+- Distribuciones complejas
+- Componentes reutilizables
+- Responsive Design
+- CSS Grid
+- Organización visual
 
-✔ Flexbox avanzado
-
-✔ Componentes reutilizables
-
-✔ Arquitectura visual
-
-✔ Organización del código
-
-### 🔗 Enlaces
+<br>
 
 <a href="https://maite-willinski.github.io/NetPulse/">
 
-<img src="https://img.shields.io/badge/🌐%20Demo%20Live-7B68EE?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Demo-8B5CF6?style=for-the-badge">
 
 </a>
 
 <a href="https://github.com/Maite-Willinski/NetPulse">
 
-<img src="https://img.shields.io/badge/📂%20Repositorio-9370DB?style=for-the-badge">
+<img src="https://img.shields.io/badge/📂%20Repositorio-7C3AED?style=for-the-badge">
 
 </a>
 
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🌸 Página Web Personal
 
-> **Mi portfolio y Link in Bio desarrollado completamente desde cero.**
+Mi espacio personal desarrollado completamente desde cero.
 
 ### ✨ Características
 
-- Diseño responsive
 - HTML semántico
-- CSS moderno
-- Optimización visual
+- Responsive
+- Diseño limpio
+- Optimización
 - Mobile First
 
-### 🧠 Tecnologías
+### 🛠 Tecnologías
 
 <p>
 
@@ -266,39 +355,51 @@ Actualmente busco seguir creciendo mediante:
 
 ### 📚 Lo que aprendí
 
-✔ Optimización
+- Organización del código
+- Optimización
+- Accesibilidad
+- Diseño adaptable
 
-✔ Accesibilidad
-
-✔ Organización visual
-
-✔ Diseño responsive
-
-### 🔗 Enlaces
+<br>
 
 <a href="https://maite.github.io/">
 
-<img src="https://img.shields.io/badge/🌐%20Demo%20Live-7B68EE?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Demo-8B5CF6?style=for-the-badge">
 
 </a>
 
 <a href="https://github.com/Maite-Willinski/maite.github.io">
 
-<img src="https://img.shields.io/badge/📂%20Repositorio-9370DB?style=for-the-badge">
+<img src="https://img.shields.io/badge/📂%20Repositorio-7C3AED?style=for-the-badge">
 
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Maite-Willinski/maite.github.io/main/assets/img/preview.png" width="95%">
+
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+<div align="center">
 
 # 🌱 Próximos proyectos
 
+</div>
+
 | Proyecto | Estado |
-|-----------|--------|
-| 🐧 Linux Server Labs | 🔄 En desarrollo |
-| 🌐 ASIR Networks | 🔄 En desarrollo |
-| ⚙ Bash Automation | 🔄 Planificado |
+|----------|--------|
+| 🐧 Linux Labs | 🚧 En preparación |
+| 🌐 Networking Labs | 🚧 En preparación |
+| 📜 Bash Scripts | 📅 Próximamente |
 | 📦 Docker Labs | 📅 Próximamente |
-| ☁ Infraestructura | 📅 Próximamente |
 
 ---
 
@@ -306,119 +407,319 @@ Actualmente busco seguir creciendo mediante:
 
 ## 💡 Mi forma de aprender
 
-*"Intento que cada proyecto me enseñe una tecnología nueva o una mejor forma de resolver problemas. No busco únicamente terminar proyectos; busco entender por qué funcionan."*
-
 </div>
 
----# 🧪 Laboratorios & Aprendizaje
-
-Aunque mi foco principal actualmente está en el desarrollo Frontend, también dedico tiempo a construir laboratorios relacionados con Administración de Sistemas.
-
-Estos repositorios reflejan mi evolución durante ASIR.
-
-## 🐧 Linux Server Labs
-
-Repositorio donde documento prácticas relacionadas con:
-
-- Gestión de usuarios y permisos
-- Bash Scripting
-- Apache
-- Nginx
-- SSH
-- DNS
-- DHCP
-- Servicios Linux
-
-> *En constante crecimiento conforme avanzo en ASIR.*
+> Me gusta aprender construyendo proyectos reales.
+>
+> Cada repositorio representa un paso más en mi formación y una oportunidad para mejorar mi forma de programar, documentar y resolver problemas.
 
 ---
 
+<div align="center">
+
+## ⭐ En constante evolución
+
+*"Todavía tengo mucho por aprender, y precisamente eso es lo que más me motiva."*
+
+</div>
+
+---<!-- ========================================================= -->
+<!-- ROADMAP -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🗺️ Roadmap
+
+<p>
+Mi objetivo no es aprender muchas tecnologías rápidamente,
+sino construir una base sólida paso a paso.
+</p>
+
+</div>
+
+<table width="100%">
+
+<tr>
+
+<td width="25%" align="center">
+
+## ✅ Completado
+
+🎓 SMR
+
+✔ Hardware
+
+✔ Redes básicas
+
+✔ Windows
+
+✔ Linux básico
+
+✔ HTML
+
+✔ CSS
+
+✔ Git
+
+</td>
+
+<td width="25%" align="center">
+
+## 🚀 Actualmente
+
+📚 ASIR
+
+⚙ JavaScript
+
+🐧 Linux
+
+🌐 Redes
+
+📝 Documentación
+
+💻 Nuevos proyectos
+
+</td>
+
+<td width="25%" align="center">
+
+## 📖 Próximamente
+
+📜 Bash
+
+🐳 Docker
+
+🌍 Apache
+
+🌐 Nginx
+
+🔐 SSH
+
+📦 Virtualización
+
+</td>
+
+<td width="25%" align="center">
+
+## 🎯 Futuro
+
+☁ Cloud
+
+⚙ Automatización
+
+🛠 Infraestructura
+
+🔒 Seguridad
+
+📊 Monitorización
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🐧 Laboratorios
+
+<p>
+
+Todo lo que vaya aprendiendo durante ASIR irá acompañado de pequeños laboratorios y documentación para practicar y reforzar conceptos.
+
+</p>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🌐 Networking Labs
 
-Prácticas relacionadas con:
-
 - IPv4
-- Subnetting
+- Subredes
 - Switching
-- Routing
-- TCP/IP
-- VLAN
-- Virtualización
+- Routing básico
+- Configuración de redes
+- VirtualBox
 
-Todo el contenido estará documentado para mostrar mi evolución.
+</td>
+
+<td width="50%" valign="top">
+
+## 🖥 Linux Labs
+
+- Gestión de usuarios
+- Permisos
+- Bash
+- Servicios
+- Organización del sistema
+- Prácticas de administración
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🛠 Mi entorno de trabajo
 
+<table width="100%">
+
+<tr>
+
+<td align="center">
+
+💻
+
+### Sistema
+
+Windows 11
+
+</td>
+
+<td align="center">
+
+🐧
+
+### Virtualización
+
+VirtualBox
+
+</td>
+
+<td align="center">
+
+⚙
+
+### Editor
+
+Visual Studio Code
+
+</td>
+
+<td align="center">
+
+📂
+
+### Control de versiones
+
+Git & GitHub
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Actualmente aprendiendo
+
 <div align="center">
 
-| Hardware | Software |
-|----------|----------|
-| 💻 Windows 11 | VS Code |
-| 🐧 Máquinas Virtuales Linux | Git |
-| 🌐 VirtualBox | GitHub |
-| ⚙ Terminal personalizada | PowerShell |
+| Tecnología | Estado |
+|------------|--------|
+| HTML | 🟣 Muy cómodo |
+| CSS | 🟣 Muy cómodo |
+| JavaScript | 🟡 Aprendiendo |
+| Linux | 🟡 Aprendiendo |
+| Git | 🟡 Mejorando |
+| Redes | 🟡 Profundizando |
 
 </div>
 
 ---
 
-# 📖 Actualmente aprendiendo
-
-```text
-███████████████████████░░░░░░░░░  HTML5
-
-██████████████████████░░░░░░░░░░  CSS3
-
-███████████████████░░░░░░░░░░░░░  JavaScript
-
-████████████████░░░░░░░░░░░░░░░░  Linux
-
-██████████████░░░░░░░░░░░░░░░░░░  Redes
-
-██████████░░░░░░░░░░░░░░░░░░░░░░  Bash
-
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░░  Docker
-```
-
----
-
-# 📚 Recursos favoritos
-
-Estos son algunos de los recursos que utilizo prácticamente cada semana.
-
-- 📖 MDN Web Docs
-- 🐧 Linux Journey
-- 📚 Microsoft Learn
-- 💻 GitHub Docs
-- 📄 CSS Tricks
-- 🎥 YouTube
-- 📚 Stack Overflow
-
----
-
 # 💡 Mi forma de trabajar
 
-✔ Código limpio
+<table width="100%">
+
+<tr>
+
+<td width="50%">
+
+## 💜 Desarrollo
 
 ✔ HTML semántico
 
-✔ CSS organizado
+✔ Código organizado
 
-✔ Componentes reutilizables
+✔ Responsive Design
 
-✔ Aprendizaje continuo
+✔ CSS limpio
 
-✔ Documentación
+✔ Aprender construyendo
 
-✔ Git desde el primer día
+</td>
 
-✔ Mentalidad de mejora continua
+<td width="50%">
+
+## 🖥 Sistemas
+
+✔ Documentar prácticas
+
+✔ Resolver problemas
+
+✔ Experimentar
+
+✔ Aprender haciendo
+
+✔ Mejorar continuamente
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📈 Mi actividad
+# 📖 Recursos favoritos
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
+
+</div>
+
+<br>
+
+- 📘 MDN Web Docs
+- 🐧 Linux Journey
+- 📚 Microsoft Learn
+- 💻 GitHub Docs
+- 🎥 YouTube
+- 📖 Documentación oficial
+
+---
+
+# 🎯 Objetivos para este año
+
+- 🎓 Comenzar ASIR
+- 💻 Mejorar JavaScript
+- 🐧 Ganar soltura en Linux
+- 🌐 Ampliar conocimientos de redes
+- 📦 Crear nuevos proyectos
+- 📚 Documentar mi aprendizaje en GitHub
+
+---
+
+<div align="center">
+
+## 🌸 Siempre aprendiendo
+
+> *"Cada proyecto representa una oportunidad para aprender algo nuevo."*
+
+</div>
+
+---
+
+# 📈 Actividad
 
 <div align="center">
 
@@ -430,46 +731,133 @@ Estos son algunos de los recursos que utilizo prácticamente cada semana.
 
 <div align="center">
 
-## 🐍 Contribuciones
-
-<img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg">
+🚀 **Lo importante no es saberlo todo, sino no dejar nunca de aprender.**
 
 </div>
 
----
-
-# 🤝 Conectemos
-
-<div align="center">
-
-Si te interesa mi perfil o quieres colaborar en algún proyecto...
-
-<a href="https://www.linkedin.com/in/maite-willinski-gonz%C3%A1lez-b05706268/">
-
-<img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</a>
-
-<a href="mailto:maitewillinskigonzalez@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
-
-</a>
-
-</div>
-
----
+---<!-- ========================================================= -->
+<!-- CONTACTO -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 💜 Gracias por visitar mi perfil
+# 🤝 ¡Conectemos!
 
-*"La mejor forma de aprender tecnología es construir, romper, documentar y volver a construir."*
+<p>
 
-⭐ Si alguno de mis proyectos te resulta interesante, no dudes en dejar una estrella o ponerte en contacto conmigo.
+Siempre estoy abierta a aprender, colaborar y conocer personas apasionadas por la tecnología.
+
+</p>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Maite-Willinski&color=blueviolet&style=for-the-badge)
+<a href="https://www.linkedin.com/in/maite-willinski-gonz%C3%A1lez-b05706268/">
+
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="mailto:maitewillinskigonzalez@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
 
 </div>
+
+---
+
+# 🌸 Un poco más sobre mí
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Me gusta...
+
+- Aprender cosas nuevas.
+- Resolver problemas.
+- Crear proyectos desde cero.
+- Organizar mi código.
+- Documentar mi progreso.
+- Diseñar interfaces limpias.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Quiero aprender...
+
+- Docker
+- Bash
+- Active Directory
+- Servicios Linux
+- Automatización
+- DevOps
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 Mi actividad
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maite-Willinski&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maite-Willinski&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maite-Willinski&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💜 Mi filosofía
+
+<div align="center">
+
+> **Nunca dejar de aprender.**
+>
+> Cada proyecto representa un paso más en mi evolución como profesional.
+
+</div>
+
+---
+
+# 📌 Actualmente
+
+```text
+🟣 SMR ✔
+
+🟣 Preparando ASIR ✔
+
+🟣 Aprendiendo JavaScript ✔
+
+🟣 Mejorando Linux ✔
+
+🟣 Construyendo proyectos ✔
+
+🟣 Aprendiendo Git y GitHub ✔
