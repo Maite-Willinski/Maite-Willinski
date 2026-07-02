@@ -4,7 +4,7 @@
 
 # 💜 Construyendo proyectos mientras sigo creciendo como profesional.
 
-**🇪🇸 Desde España** • **🎓 Técnica en Sistemas Microinformáticos y Redes (SMR)** • **📚 Futura estudiante de ASIR**
+**🇪🇸 Desde España** • **🎓 Técnica en Sistemas Microinformáticos y Redes (SMR)** • **📚 Futura estudiante de ASIR** • Autodidacta en programación web 
 
 <br>
 
