@@ -33,13 +33,6 @@ Me gusta comprender la tecnología desde dos perspectivas:
 
 Mi objetivo es seguir creciendo como profesional creando proyectos reales, documentando mi aprendizaje y afrontando nuevos retos.
 
----
-
-# 🚀 Proyectos Destacados
-
-## 🖥 Net-Troubleshooter
-
-> Terminal interactiva inspirada en herramientas de administración de sistemas y diagnóstico de red.
 # 🚀 Proyectos Destacados
 
 Estos son algunos de los proyectos con los que continúo aprendiendo y desarrollando mis habilidades en **Administración de Sistemas** y **Desarrollo Web**.
