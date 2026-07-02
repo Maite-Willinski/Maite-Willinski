@@ -176,7 +176,7 @@ Estas son las tecnologías y herramientas con las que trabajo actualmente y cont
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Maite-Willinski&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Maite-Willinski&theme=tokyonight&hide_border=true" />
 
 </div>
 
