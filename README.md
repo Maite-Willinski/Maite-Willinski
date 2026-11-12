@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:E7A3C3,50:B9A3E3,100:7A4FC0&text=Maite%20Willinski&fontColor=3B2470&fontSize=42&fontAlignY=38&desc=%E2%8B%86%20sistemas%20%C2%B7%20redes%20%C2%B7%20soporte%20t%C3%A9cnico%20%E2%8B%86&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F6D3E3,50:E4D8F7,100:C9B6EC&text=Maite%20Willinski&fontColor=3B2470&fontSize=42&fontAlignY=38&desc=%E2%8B%86%20sistemas%20%C2%B7%20redes%20%C2%B7%20soporte%20t%C3%A9cnico%20%E2%8B%86&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=22&duration=3200&pause=900&color=7A4FC0&center=true&vCenter=true&width=620&lines=T%C3%A9cnica%20en%20SMR%20%E2%99%A1%20Estudiante%20de%20ASIR;Busco%20pr%C3%A1cticas%20duales%20en%202027;Construyendo%20proyectos%20mientras%20crezco" alt="Técnica en SMR ♡ Estudiante de ASIR · Busco prácticas duales en 2027 · Construyendo proyectos mientras crezco"/>
 
@@ -130,6 +130,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Maite-Willinski&style=flat-square&color=E7A3C3&label=visitas" alt="Visitas al perfil"/>
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=0:E7A3C3,50:B9A3E3,100:7A4FC0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=0:F6D3E3,50:E4D8F7,100:C9B6EC" width="100%"/>
 
 </div>
