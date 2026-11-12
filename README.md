@@ -4,7 +4,7 @@
 
 # 💜 Construyendo proyectos mientras sigo creciendo como profesional.
 
-**🇪🇸 Desde España** • **🎓 Técnica en Sistemas Microinformáticos y Redes (SMR)** • **📚 Futura estudiante de ASIR** • Autodidacta en programación web 
+**🇪🇸 Desde España** • **🎓 Técnica en Sistemas Microinformáticos y Redes (SMR)** • **📚 Estudiante de 1.º de ASIR (FP Dual)** • Autodidacta en programación web 
 
 <br>
 
@@ -24,7 +24,9 @@
 
 ¡Hola! Soy **Maite**, una apasionada de la informática con un especial interés por la **Administración de Sistemas**, las **Redes** y el **Desarrollo Web Frontend**.
 
-Tras finalizar **Sistemas Microinformáticos y Redes (SMR)**, continúo mi formación con el objetivo de comenzar **Administración de Sistemas Informáticos en Red (ASIR)**, mientras desarrollo proyectos personales para seguir aprendiendo y mejorando cada día.
+Tras finalizar **Sistemas Microinformáticos y Redes (SMR)** y hacer **400 horas de prácticas como técnica de soporte informático**, ahora estudio **Administración de Sistemas Informáticos en Red (ASIR)** en modalidad dual, mientras desarrollo proyectos personales para seguir aprendiendo y mejorando cada día.
+
+> 🔎 **Busco prácticas duales** (unas 300 horas) a partir de febrero/marzo de 2027 en administración de sistemas, redes o soporte técnico.
 
 Me gusta comprender la tecnología desde dos perspectivas:
 
@@ -95,11 +97,11 @@ Proyecto enfocado en el desarrollo de una interfaz moderna para visualizar infor
 
 <p align="left">
 
-<a href="https://maite-willinski.github.io/NetPulse">
+<a href="https://maite-willinski.github.io/netpulse-dashboard/">
 <img src="https://img.shields.io/badge/🌐%20Ver%20Proyecto-8B5CF6?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Maite-Willinski/NetPulse">
+<a href="https://github.com/Maite-Willinski/netpulse-dashboard">
 <img src="https://img.shields.io/badge/📂%20Ver%20Código-7C3AED?style=for-the-badge"/>
 </a>
 
@@ -109,35 +111,31 @@ Proyecto enfocado en el desarrollo de una interfaz moderna para visualizar infor
 
 ## 🌸 Portfolio Personal
 
-**Mi espacio personal en la web**
+**Mi portafolio como técnica de sistemas y redes**
 
-Un sitio desarrollado desde cero donde comparto mis proyectos, mi evolución y las tecnologías con las que trabajo.
+Web hecha a mano con HTML y CSS, sin librerías, donde reúno mi formación, mi experiencia y mis prácticas de ASIR documentadas paso a paso con capturas reales.
 
-### 🛠 Tecnologías
+### 📂 Prácticas documentadas
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-### ✨ Características principales
-
-- HTML semántico.
-- CSS moderno.
-- Diseño responsive.
-- Mobile First.
-- Código limpio y organizado.
+| Proyecto | Tecnologías |
+| --- | --- |
+| [Direccionamiento IP y tráfico con Wireshark](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/redes-wireshark) | Wireshark · Subnetting · ARP · DNS · HTTP |
+| [Arranque dual y recuperación de GRUB](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/arranque-dual-grub) | VirtualBox · UEFI · GRUB · Linux · Windows 11 |
+| [Servidores web en AWS EC2](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/servidores-web-aws) | AWS EC2 · SSH · nginx · IIS |
+| [Diagnóstico de hardware](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/diagnostico-hardware) | UEFI · S.M.A.R.T. · MemTest64 |
 
 <p align="left">
 
-<a href="https://maite.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Ver%20Proyecto-8B5CF6?style=for-the-badge"/>
+<a href="https://maite-willinski.github.io/">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Portfolio-8B5CF6?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Maite-Willinski/maite.github.io">
+<a href="https://github.com/Maite-Willinski/Maite-Willinski.github.io">
 <img src="https://img.shields.io/badge/📂%20Ver%20Código-7C3AED?style=for-the-badge"/>
 </a>
 
 </p>
+
 # 🛠️ Tecnologías
 
 Estas son las tecnologías y herramientas con las que trabajo actualmente y continúo aprendiendo.
@@ -154,7 +152,7 @@ Estas son las tecnologías y herramientas con las que trabajo actualmente y cont
 
 ### 💻 Sistemas Operativos
 
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,aws"/>
 
 <br><br>
 
