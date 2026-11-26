@@ -40,6 +40,7 @@
 | ❀ Práctica | Tecnologías |
 | --- | --- |
 | [Direccionamiento IP y tráfico con Wireshark](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/redes-wireshark) | Wireshark ⋆ Subnetting ⋆ ARP ⋆ DNS ⋆ HTTP |
+| [Switches Cisco y Spanning Tree](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/conmutacion-stp) | Cisco IOS ⋆ STP ⋆ VLSM ⋆ Packet Tracer |
 | [Arranque dual y recuperación de GRUB](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/arranque-dual-grub) | VirtualBox ⋆ UEFI ⋆ GRUB ⋆ Linux ⋆ Windows 11 |
 | [Servidores y VPC en AWS](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/servidores-web-aws) | AWS EC2 ⋆ VPC ⋆ SSH ⋆ nginx ⋆ IIS |
 | [Configuración de red en Windows y Ubuntu](https://github.com/Maite-Willinski/Maite-Willinski.github.io/tree/main/proyectos/redes-windows-ubuntu) | PowerShell ⋆ netplan ⋆ Firewall ⋆ DNS |
